@@ -1,0 +1,1 @@
+import{M as o,h as a}from"./chunk-KH23ZVUW.js";var r=class t{stateSubject=new a(!1);alertShown=!1;state$=this.stateSubject.asObservable();updateState(e){this.stateSubject.next(e)}static \u0275fac=function(s){return new(s||t)};static \u0275prov=o({token:t,factory:t.\u0275fac,providedIn:"root"})};export{r as a};
